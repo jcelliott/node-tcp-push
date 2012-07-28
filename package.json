@@ -1,0 +1,19 @@
+{
+  "author": "Joshua Elliott <joshuacelliott@gmail.com> (joshuacelliott.ruhoh.com)",
+  "name": "node-tcp-push",
+  "description": "send a tcp packet",
+  "version": "0.1.0",
+  "repository": {
+    "url": "git@github.com:joshuacelliott/node-tcp-push.git"
+  },
+  "bin": {
+    "node-tcp-push": "tcp.js"
+  },
+  "main": "tcp.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
